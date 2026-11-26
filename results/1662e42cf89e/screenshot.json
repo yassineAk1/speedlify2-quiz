@@ -1,0 +1,13 @@
+{
+  "file": "screenshot.webp",
+  "width": 412,
+  "height": 823,
+  "noJs": {
+    "file": "screenshot-nojs.webp",
+    "width": 412,
+    "height": 823
+  },
+  "difference": 2.3,
+  "noJsText": 31.3,
+  "capturedAt": "2026-11-24T01:05:34.140Z"
+}
